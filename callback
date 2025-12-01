@@ -1,0 +1,12 @@
+<!-- callback/index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Login Callback</title>
+</head>
+<body>
+    <h1>Login Callback Page</h1>
+    <p>This page is used to handle TikTok login redirects.</p>
+</body>
+</html>
